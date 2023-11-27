@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be063e4d65a5e2c498cb53ec2fd0cb29, type: 3}
+  m_Name: ScenePrompts_Forest
+  m_EditorClassIdentifier: 
+  promptsItem:
+  - {fileID: 4688808899015032536, guid: 6eb30c6504b508348ac21bc3fc5e71fb, type: 3}
+  - {fileID: 4688808899015032536, guid: ff61542b06c83ae4b827801d1fc42360, type: 3}

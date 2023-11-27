@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3225f90f54711548aefa8964a91d9f9, type: 3}
+  m_Name: SceneDefaultParameter_Tavern
+  m_EditorClassIdentifier: 
+  sceneName: 8
+  sceneLocationName: 1
+  scenePrompts: {fileID: 11400000, guid: a83bef1ac630856489c9bda736f791d1, type: 2}
+  sceneIsUnlockedOrNot: 0
+  sceneRequireLevel: 1
+  scenePromptTypeNumber: 4
+  sceneMinPromptOdds: 0.5
+  sceneMaxPromptsNumber: 1
+  sceneMinPromptsNumber: 1
+  scenePatienceMinus: 1000
+  sceneTotalStage: 1
+  sceneWrongInputPatincePenalty: 1
+  sceneDestroyAllOrNot: 0
+  sceneEffect: "\u76EE\u524D\u9084\u6C92\u5BE6\u88DD\uFF0C\u9700\u8981SO"
+  scenePromptEveryPopTime: 2
+  scenePromptRespawnTime: 0.1
+  sceneBossSceneOrNot: 0
+  sceneBossRushOdds: 0.1
+  sceneBossRushTime: 3
+  sceneBossHealth: 0
+  sceneBGM: {fileID: 8300000, guid: bd39507c8bb6fde468ecbadfd35028a3, type: 3}
+  sceneResultSound:
+  - {fileID: 8300000, guid: c49f61fa35069dd4f82beb89583be463, type: 3}
+  - {fileID: 8300000, guid: 7321e43046a54014c975153f275bbabe, type: 3}
+  sceneSprite: {fileID: 21300000, guid: c4de101db1fa04241a0b551f90c3236f, type: 3}
+  sceneBossSprite: {fileID: 0}
+  sceneShowPrompt: 1
+  sceneShowInputAmount: 1

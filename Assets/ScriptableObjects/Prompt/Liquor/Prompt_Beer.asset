@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf8198cdd61e9b4eae99d853298be38, type: 3}
+  m_Name: Prompt_Beer
+  m_EditorClassIdentifier: 
+  promptType: 4
+  promptSprite: {fileID: 21300000, guid: e0a7fb47c7111464f866363e7a3f47da, type: 3}
+  promptName_English: Beer
+  promptName_TraditionalChinese: "\u5564\u9152"
+  promptIsObtainableOrNot: 1
+  promptTransferToItem: {fileID: 11400000, guid: 383a8481cc7d15745828ea96d4140c87, type: 2}
+  promptEXP: 5
+  promptDamage: 0
+  promptWearing: 1
+  promptAudio: {fileID: 0}
+  containsByproduct: 0
+  byproductOdds: 0
+  eachByproductOdds: []
+  byproductList: []

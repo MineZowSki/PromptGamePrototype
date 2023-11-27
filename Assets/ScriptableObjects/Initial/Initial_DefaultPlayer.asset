@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5feca4f8682cdc4eb66b26c15e1ca30, type: 3}
+  m_Name: Initial_DefaultPlayer
+  m_EditorClassIdentifier: 
+  initialName: Default Player
+  initialSprite: {fileID: 21300000, guid: f281f19eebf8d3b4282f9703e45d65d4, type: 3}
+  initialInfo: {fileID: 11400000, guid: 6e3fb10f44e074740ab8340c1392820b, type: 2}
+  initialCharacterInfo: {fileID: 11400000, guid: 3ed7822c3c208f74085ffa98e2451644, type: 2}

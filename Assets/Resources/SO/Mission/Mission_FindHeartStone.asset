@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90daef17a0c0d6545b63185ff6353c8d, type: 3}
+  m_Name: Mission_FindHeartStone
+  m_EditorClassIdentifier: 
+  missionCompletedOrNot: 1
+  missionName: Heart Stone Miner
+  missionInfo: Find 5 Heart Stone for the merchant
+  missionEXP: 150
+  missionRequestItem: Heart Stone
+  missionRequestScene: 0
+  missionProgress: 5
+  missionRewardSprite: {fileID: 0}
+  missionRewardName: 
+  missionRewardNumber: 0
+  missionRewardItemSO: {fileID: 0}
+  missionRewardIsEquipmentOrNot: 0
+  missionRewardEquipmentDurability: 0

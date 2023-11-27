@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be063e4d65a5e2c498cb53ec2fd0cb29, type: 3}
+  m_Name: ScenePrompts_CatLand
+  m_EditorClassIdentifier: 
+  promptsItem:
+  - {fileID: 4688808899015032536, guid: 3d5761bb0ab233445b6c3535c1be9563, type: 3}
+  - {fileID: 4688808899015032536, guid: 5d5fa4afaf6d50c479abb8cda6c479ba, type: 3}
+  - {fileID: 4688808899015032536, guid: 2119f37511b24b44bb96b0dadbf04f66, type: 3}
+  - {fileID: 4688808899015032536, guid: c36a0ee3244a84540b8913b2fe29bfd9, type: 3}

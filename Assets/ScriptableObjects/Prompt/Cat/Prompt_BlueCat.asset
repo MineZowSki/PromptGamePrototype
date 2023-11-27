@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf8198cdd61e9b4eae99d853298be38, type: 3}
+  m_Name: Prompt_BlueCat
+  m_EditorClassIdentifier: 
+  promptType: 0
+  promptSprite: {fileID: 1193388614, guid: db733f50b3f2f334092e5efcc17b4916, type: 3}
+  promptName_English: Blue Cat
+  promptName_TraditionalChinese: "\u85CD\u8C93"
+  promptIsObtainableOrNot: 1
+  promptTransferToItem: {fileID: 11400000, guid: 72b5d10a5ff5bab4ba3b3d5ba38497c3, type: 2}
+  promptEXP: 5
+  promptDamage: 5
+  promptWearing: 1
+  promptAudio: {fileID: 8300000, guid: c2adc2362c7fee34bbea743e05f3e879, type: 3}
+  containsByproduct: 0
+  byproductOdds: 0.95
+  eachByproductOdds:
+  - 1
+  byproductList: []

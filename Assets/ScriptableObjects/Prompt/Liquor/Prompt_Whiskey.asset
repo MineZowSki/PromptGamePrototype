@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf8198cdd61e9b4eae99d853298be38, type: 3}
+  m_Name: Prompt_Whiskey
+  m_EditorClassIdentifier: 
+  promptType: 4
+  promptSprite: {fileID: 21300000, guid: 36c5c2d32d6e5834ebf3d84ae5c8b01e, type: 3}
+  promptName_English: Whiskey
+  promptName_TraditionalChinese: "\u5A01\u58EB\u5FCC"
+  promptIsObtainableOrNot: 1
+  promptTransferToItem: {fileID: 11400000, guid: edeb5b519de2a8d4b904cc94317ed6c2, type: 2}
+  promptEXP: 5
+  promptDamage: 0
+  promptWearing: 1
+  promptAudio: {fileID: 0}
+  containsByproduct: 0
+  byproductOdds: 0
+  eachByproductOdds: []
+  byproductList: []

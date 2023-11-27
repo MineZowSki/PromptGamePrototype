@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerItem
+  - DARKVILLAGE
+  - BOROOM
+  - LUDAPHIN
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlayerInfo
+  - Water
+  - UI
+  - Result
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2663270627
+    locked: 0
+  - name: LocationIcon
+    uniqueID: 3657332241
+    locked: 0
+  - name: UI
+    uniqueID: 4294943183
+    locked: 0
